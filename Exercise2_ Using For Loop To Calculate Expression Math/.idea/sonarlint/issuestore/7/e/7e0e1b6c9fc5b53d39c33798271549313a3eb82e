@@ -1,0 +1,12 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙA8Øê»–1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¤ë°8Â‰¼–1
+c
+java:S3518#"AMake sure "denominator" can't be zero before doing this division.(é‹·Œøÿÿÿÿ8Ê°ş–1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(“ö·8Ñ°ş–1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(†Ïã€8Ñ°ş–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«Óÿêÿÿÿÿÿ8ğùÿ–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ï£²ıÿÿÿÿ8—ô¼–1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó€±Ãşÿÿÿÿ8æÍ¸–1
+j	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…£Öˆ8Ú¤¹–1
