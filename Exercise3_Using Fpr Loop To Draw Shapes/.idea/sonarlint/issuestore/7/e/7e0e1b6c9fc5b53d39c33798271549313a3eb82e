@@ -1,0 +1,24 @@
+
+s
+java:S1192"QDefine a constant instead of duplicating this literal "----------------" 3 times.(¶´›§þÿÿÿÿ8ìÚ­Ÿ–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ãõ„ã8žÛ­Ÿ–1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÅÊæ’ÿÿÿÿÿ8ŸÛ­Ÿ–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ8ŸÛ­Ÿ–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ8ŸÛ­Ÿ–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ8 Û­Ÿ–1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¿ë‹þÿÿÿÿ8 Û­Ÿ–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÄÄßúÿÿÿÿ8 Û­Ÿ–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ý£—é8 Û­Ÿ–1
+]	java:S125"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8 Û­Ÿ–1
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïêýÖ8 Û­Ÿ–1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(œÄÄßúÿÿÿÿ8 Û­Ÿ–1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Ý£—é8 Û­Ÿ–1
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ®Þ©üÿÿÿÿ8 Û­Ÿ–1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(œÄÄßúÿÿÿÿ8 Û­Ÿ–1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(”¶¼§8 Û­Ÿ–1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ý£—é8 Û­Ÿ–1
+i	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÏ‘8 Û­Ÿ–1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(œÄÄßúÿÿÿÿ8 Û­Ÿ–1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(”¶¼§8 Û­Ÿ–1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(Ý£—é8 Û­Ÿ–1
