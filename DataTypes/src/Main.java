@@ -14,14 +14,12 @@ public class Main {
         int a = 3;
         int b = a;
         b = 7;
-
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
         Integer c = 6;
         Integer d = c;
         d = 8;
-
         System.out.println("c = " + c);
         System.out.println("d = " + d);
     }
