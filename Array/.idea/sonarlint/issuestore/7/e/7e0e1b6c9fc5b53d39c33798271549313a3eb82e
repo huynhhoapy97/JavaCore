@@ -1,0 +1,9 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "n".(êÍ¯“þÿÿÿÿ8ªßí°œ1
+G
+java:S1197"*Move the array designators [] to the type.(ò¢£»8«ßí°œ1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(„­ÀÆûÿÿÿÿ8¬ßí°œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„­ÀÆûÿÿÿÿ8­ßí°œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìëÄÇ8­ßí°œ1
