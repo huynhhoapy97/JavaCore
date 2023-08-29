@@ -1,0 +1,12 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íüšşÿÿÿÿ8¼ĞÔ¸£1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‰ûûüÿÿÿÿ8¼ĞÔ¸£1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ßíÒ8¼ĞÔ¸£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÎ ÿ8ÈĞÔ¸£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù¨·Ú8ÈĞÔ¸£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œë»ªúÿÿÿÿ8ÉĞÔ¸£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù¨·Ú8ÉĞÔ¸£1
+W
+java:S1128":Remove this unused import 'com.huynhhoapy97.models.Staff'.(ÃûÙò8ãŸá¸£1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ãŸá¸£1

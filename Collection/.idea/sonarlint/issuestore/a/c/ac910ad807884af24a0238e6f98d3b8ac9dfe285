@@ -1,0 +1,70 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Duyen" 5 times.(é‰ûûüÿÿÿÿ8Ğ¿©á£1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Chanh" 4 times.(â¢…ıÿÿÿÿ8Ğ¿©á£1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íüšşÿÿÿÿ8Ğ¿©á£1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‰ûûüÿÿÿÿ8Ğ¿©á£1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ßíÒ8Ğ¿©á£1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷á8Ğ¿©á£1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¢…ıÿÿÿÿ8Ğ¿©á£1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÜÜÏùÿÿÿÿ8Ğ¿©á£1
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íüšşÿÿÿÿ8Ğ¿©á£1
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‰ûûüÿÿÿÿ8Ğ¿©á£1
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ßíÒ8Ğ¿©á£1
+m	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷á8Ğ¿©á£1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¢…ıÿÿÿÿ8Ğ¿©á£1
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÜÜÏùÿÿÿÿ8Ğ¿©á£1
+r	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íüšşÿÿÿÿ8Ğ¿©á£1
+r	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‰ûûüÿÿÿÿ8Ğ¿©á£1
+m	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ßíÒ8Ğ¿©á£1
+m	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷á8Ğ¿©á£1
+r	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¢…ıÿÿÿÿ8Ğ¿©á£1
+r	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÜÜÏùÿÿÿÿ8Ğ¿©á£1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íüšşÿÿÿÿ8Ğ¿©á£1
+s	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‰ûûüÿÿÿÿ8Ğ¿©á£1
+n	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ßíÒ8Ğ¿©á£1
+s	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íüšşÿÿÿÿ8Ğ¿©á£1
+s	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‰ûûüÿÿÿÿ8Ğ¿©á£1
+n	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ßíÒ8Ğ¿©á£1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷á8Ğ¿©á£1
+s	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¢…ıÿÿÿÿ8Ğ¿©á£1
+s	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÜÜÏùÿÿÿÿ8Ğ¿©á£1
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğË½Öûÿÿÿÿ8Ğ¿©á£1
+s	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ĞÃ´ùÿÿÿÿ8Ğ¿©á£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïì³í8ï¿©á£1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(å¬Éªşÿÿÿÿ8ï¿©á£1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¸±è¬8ï¿©á£1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¯±Ñœøÿÿÿÿ8ï¿©á£1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(¢“™×şÿÿÿÿ8ï¿©á£1
+T	java:S106@"9Replace this use of System.out or System.err by a logger.(ù¹¢[8ï¿©á£1
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Äí¥¿ûÿÿÿÿ8ï¿©á£1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(”»š÷øÿÿÿÿ8ï¿©á£1
+T	java:S106J"9Replace this use of System.out or System.err by a logger.(Ÿı58ï¿©á£1
+]	java:S125U"<This block of commented-out lines of code should be removed.(‚á›õùÿÿÿÿ8ï¿©á£1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(ïì³í8ÿ¿©á£1
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(å¬Éªşÿÿÿÿ8ÿ¿©á£1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ò èÖ8ÿ¿©á£1
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(¸±è¬8ÿ¿©á£1
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(¯±Ñœøÿÿÿÿ8ÿ¿©á£1
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(»™Û—ùÿÿÿÿ8ÿ¿©á£1
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(¢“™×şÿÿÿÿ8ÿ¿©á£1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Äí¥¿ûÿÿÿÿ8ÿ¿©á£1
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(ò èÖ8ÿ¿©á£1
+Y	java:S125’"<This block of commented-out lines of code should be removed.(ï»©ß8ÿ¿©á£1
+_
+java:S1854¬"<Remove this useless assignment to local variable "iterator".(ŠıÀìûÿÿÿÿ8ÿ¿©á£1
+P
+java:S1481¬"-Remove this unused "iterator" local variable.(ŠıÀìûÿÿÿÿ8ÿ¿©á£1
+^	java:S125®"<This block of commented-out lines of code should be removed.(½‰¸½ùÿÿÿÿ8ÿ¿©á£1
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(½Û‡÷úÿÿÿÿ8ÿ¿©á£1
+[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ü»îØüÿÿÿÿ8ÿ¿©á£1
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(òˆ¥Œøÿÿÿÿ8õ‰¶á£1
+Z
+java:S1144"=Remove this unused private "testElementsWithIterator" method.(ïé‘œ8ÿ¿©á£1
+^
+java:S1144/"ARemove this unused private "testElementsWithListIterator" method.(¯’8ÿ¿©á£1
+e
+java:S1144X"CRemove this unused private "testRemoveElementsWithIterator" method.(ãÁ½£ıÿÿÿÿ8ÿ¿©á£1
+j
+java:S1144€"GRemove this unused private "testRemoveElementsWithListIterator" method.(·ìØñşÿÿÿÿ8ÿ¿©á£1

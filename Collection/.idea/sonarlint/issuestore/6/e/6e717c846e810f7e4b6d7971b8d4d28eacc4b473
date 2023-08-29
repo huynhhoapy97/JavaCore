@@ -1,0 +1,50 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¥üÚşÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ‰±©ÿÿÿÿÿ
+o
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ğ¥â
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(é²Ñ
+t
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¥üÚşÿÿÿÿ
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ‰±©ÿÿÿÿÿ
+l
+java:S1192#"VDefine a constant instead of duplicating this literal "Size of HashSetList: " 3 times.(ÇÊô˜
+a
+java:S1192-"FDefine a constant instead of duplicating this literal "Duyen" 4 times.(¥óˆöÿÿÿÿÿ
+j
+java:S1192"TDefine a constant instead of duplicating this literal "Size of ArrayList: " 3 times.(Û‡Üå
+z
+java:S1192!"_Define a constant instead of duplicating this literal "------------------------------" 3 times.(Ïíõšûÿÿÿÿ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸëÆÚüÿÿÿÿ
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥óˆöÿÿÿÿÿ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÌé÷ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û‡Üå
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù¨·Ú
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ïíõšûÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÇÊô˜
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(‚ ÊÔıÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Û‡Üå
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ù¨·Ú
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Ïíõšûÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÇÊô˜
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(‚ ÊÔıÿÿÿÿ
+c	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì´‡
+;
+java:S2129K" Remove this "String" constructor(ÊÎõ’ûÿÿÿÿ
+;
+java:S2129L" Remove this "String" constructor(ÕÖãĞşÿÿÿÿ
+;
+java:S2129M" Remove this "String" constructor(ÚÛî¬ùÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Û‡Üå
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ù¨·Ú
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Ïíõšûÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ÇÊô˜
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(‚ ÊÔıÿÿÿÿ
+U
+java:S1144":Remove this unused private "testPrimitiveDataType" method.(ºÉüŠùÿÿÿÿ
+R
+java:S1144I"<Remove this unused private "testPrimitiveDataType_2" method.(Ì´‡

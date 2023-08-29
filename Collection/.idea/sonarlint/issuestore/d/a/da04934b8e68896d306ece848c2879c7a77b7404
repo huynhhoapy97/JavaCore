@@ -1,0 +1,34 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¿¦€üÿÿÿÿ8´ÌÈ‘£1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÁÃÀ8´ÌÈ‘£1
+v
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(„¨¿í8µÌÈ‘£1
+v
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(”‚äÆ8¹‘’£1
+v
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑŸÂ±8¹‘’£1
+r	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÕ›ïøÿÿÿÿ8µÌÈ‘£1
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•˜Ìá8µÌÈ‘£1
+m	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ƒ÷Ş8µÌÈ‘£1
+r	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ìÄüÿÿÿÿ8î¯Ï‘£1
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¥ûÿÿÿÿ8î¯Ï‘£1
+m	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‹©8î¯Ï‘£1
+X	java:S125"<This block of commented-out lines of code should be removed.(Àê¯8ÄÌÈ‘£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§¤üıÿÿÿÿ8ÄÌÈ‘£1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì´‡8ÄÌÈ‘£1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(§¤üıÿÿÿÿ8ÆÌÈ‘£1
+i	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÆ¢8ÆÌÈ‘£1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(§¤üıÿÿÿÿ8ÇÌÈ‘£1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(§¤üıÿÿÿÿ8ÉÌÈ‘£1
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹é ˜ûÿÿÿÿ8—îÏ‘£1
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(§¤üıÿÿÿÿ8Œ°Ï‘£1
+\
+java:S1144":Remove this unused private "testPrimitiveDataType" method.(ºÉüŠùÿÿÿÿ8ÉÌÈ‘£1
+Y
+java:S1144"<Remove this unused private "testPrimitiveDataType_2" method.(Ì´‡8ÉÌÈ‘£1
+X
+java:S1144)"<Remove this unused private "testPrimitiveDataType_3" method.(ÌÆ¢8ÉÌÈ‘£1
+T
+java:S11446"7Remove this unused private "testObjectDataType" method.(’ •ç8®¤‚’£1
