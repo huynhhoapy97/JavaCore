@@ -1,0 +1,18 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Duyen" 3 times.(ÖıÙæùÿÿÿÿ8Â„Íã£1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÜÃıÿÿÿÿ8ÜÂ«ã£1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ùß§8ÜÂ«ã£1
+m	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½şÓ8İÂ«ã£1
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¿Â•ÿÿÿÿÿ8Â„Íã£1
+f
+java:S4143"DVerify this is the key that was intended; it was already set before.(ÖıÙæùÿÿÿÿ8åÂ«ã£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§Ê°üÿÿÿÿ8çÂ«ã£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(şø¹‰8çÂ«ã£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀ³À8çÂ«ã£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8èÂ«ã£1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÆÀ³À8èÂ«ã£1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8èÂ«ã£1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8ï²Ïã£1
+\
+java:S1144":Remove this unused private "testWithPrimitiveData" method.(Á’Ï•şÿÿÿÿ8Í˜æã£1
